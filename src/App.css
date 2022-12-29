@@ -1,0 +1,45 @@
+.app-style {
+  display: flex;
+  align-items: left;
+  gap: 12px;
+  padding-top: 10px;
+}
+
+.square-style {
+  width: 150px;
+  height: 150px;
+  border: 1px solid green;
+  border-radius: 10px;
+
+  box-shadow: 0px 0px 1px 0px black;
+  margin: 25px;
+}
+
+.mytitle {
+  padding-top: 10px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
+.container {
+  align-items: center;
+  border: 1px solid gray;
+  display: flex;
+  height: 50px;
+  justify-content: space-between;
+  padding: 20px 20px;
+}
+
+.layout {
+  margin: 0 auto;
+}
+
+.add {
+  padding-top: 250px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
